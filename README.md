@@ -3,7 +3,8 @@
 
 Course days: 20-21. May 2025         
 Main lecturer: Christine Møller          
-Course responsible: erling.hoivik@uib.no                 
+Course responsible: erling.hoivik@uib.no
+Coordinators; lorena.larios@uib.no, ghazal.toussi@uib.no      
 Link to this site: https://github.com/CCBIO908/Scientific_Writing_Course      
 Location: Birkhaugsalen, Haukeland University Hospital, main building (room number 4519).     
 Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writing-and-communication-seminar-2025
