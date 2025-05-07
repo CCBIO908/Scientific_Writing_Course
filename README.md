@@ -11,10 +11,10 @@ Link to this site: https://github.com/CCBIO908/Scientific_Writing_Course
 ### Announcements
 
 ```
-April 08 2025
+#### April 08 2025
 ```     
-**Welcome, confirmation CCBIO908**
-Dear all!
+Welcome, confirmation CCBIO908  
+Dear all! 
 
 Thank you for signing up for CCBIO908, Scientific Writing and Communication.
 This email confirms that you have been accepted to the course (2ECT or non-ECT), and are registered at MittUiB.
