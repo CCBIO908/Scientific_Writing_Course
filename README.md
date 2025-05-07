@@ -8,7 +8,7 @@ Course responsible: erling.hoivik@uib.no
 This site: xxxx  
 
 > [!NOTE]         
-> I will continously update this page as needed.
+> This page is continously updated as needed.
   - The primarily site for your material is in MittUIB/Canvas (ECT-students).      
   - So info here is for those that have not gotten access to mittuib; the same information is shared here (gesture for non-ECT participants).     
 
