@@ -11,6 +11,12 @@ Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writi
 > [!NOTE]         
 > Intention: This page is continously updated as needed. Information works in parallell with Mittuib/Canvas, to make sure non-ECT participants easily can access the same information, as some of you have reported trouble with accessing the student pages. For ECT-earning students, your main site will still be https://mitt.uib.no/courses/50763   
 
+## Time schedule
+Please note that changes may occur.     
+![image](https://github.com/user-attachments/assets/5aef056e-ef7d-4813-94d5-9eaaef951964)
+![image](https://github.com/user-attachments/assets/7cb9bc58-170f-403e-a5ca-29e9c698f211)
+
+
 ## Message 1 (May 07):
 
 ### a) First assignment and time schedule
@@ -23,10 +29,7 @@ Click here to download [Assignment 1 and the activity plan](https://filesender.s
 ### b)  Not able to participate?
 Please inform us if you are not able to participate at the two days. 
 
-## Time schedule
-Please note that changes may occur.     
-![image](https://github.com/user-attachments/assets/5aef056e-ef7d-4813-94d5-9eaaef951964)
-![image](https://github.com/user-attachments/assets/7cb9bc58-170f-403e-a5ca-29e9c698f211)
+
              
 
  
