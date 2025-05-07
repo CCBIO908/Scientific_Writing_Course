@@ -18,7 +18,8 @@ Dear all!
 
 Thank you for signing up for CCBIO908, Scientific Writing and Communication.
 This email confirms that you have been accepted to the course (2ECT or non-ECT), and are registered at MittUiB.
-The course is fully booked+, so please inform us if your plans have changed and you do not intend to follow the course (Coordinators: lorena.larios@uib.no & ghazal.toussi@uib.no). 
+The course is fully booked+, so please inform us if your plans have changed and you do not intend to follow the course.  
+(Coordinators: lorena.larios@uib.no & ghazal.toussi@uib.no). 
 
 Course days: 20-21. May 2025.
 Time: Please expect that course hours are between 08-17, both days (detailed time schedule will come later). 
