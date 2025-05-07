@@ -2,9 +2,9 @@
 ### Course information 2025
 ![image](https://github.com/user-attachments/assets/d94b8be9-b838-4923-b917-d8233d11ba60)
 
-Main lecturer: Christine Møller       
-Course responsible: erling.hoivik@uib.no              
-This site: xxxx  
+Main lecturer: Christine Møller          
+Course responsible: erling.hoivik@uib.no                 
+This site: https://github.com/CCBIO908/Scientific_Writing_Course     
 
 > [!NOTE]         
 > This page is continously updated as needed.
