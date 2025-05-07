@@ -12,7 +12,7 @@ Link to this site: https://github.com/CCBIO908/Scientific_Writing_Course
 
 ```
 April 08 2025
-```
+```     
 **Welcome, confirmation CCBIO908**
 Dear all!
 
