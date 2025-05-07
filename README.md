@@ -20,7 +20,7 @@ Click here to download [Assignment 1 and the activity plan](https://filesender.s
 
 (Of course for ECT-students this is obligatory, and please then submit through MittUIB).
 
-###b)  Not able to participate?
+### b)  Not able to participate?
 Please inform us if you are not able to participate at the two days. 
              
 
