@@ -6,9 +6,7 @@ Course responsible: erling.hoivik@uib.no
 Link to this site: https://github.com/CCBIO908/Scientific_Writing_Course     
 
 > [!NOTE]         
-> This page is continously updated as needed.
-  - For ECT-students: Your material is in MittUIB/Canvas.     
-  - non-ECT participants: This site is for you, if you are not able to access mittuib; the same information is shared here as a guesture to you.     
+> Intention: This page is continously updated as needed, and works in parallell to information on Mittuib/Canvas, to make sure non-ECT participants easily can access the same information. For ECT-earning students, your main site will be https://mitt.uib.no.     
 
 ### Announcement
 
