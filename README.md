@@ -4,12 +4,12 @@
 
 Main lecturer: Christine Møller          
 Course responsible: erling.hoivik@uib.no                 
-This site: https://github.com/CCBIO908/Scientific_Writing_Course     
+Link to this site: https://github.com/CCBIO908/Scientific_Writing_Course     
 
 > [!NOTE]         
 > This page is continously updated as needed.
-  - The primarily site for your material is in MittUIB/Canvas (ECT-students).      
-  - So info here is for those that have not gotten access to mittuib; the same information is shared here (gesture for non-ECT participants).     
+  - For ECT-students: Your material is in MittUIB/Canvas.     
+  - non-ECT participants: This site is for you, if you are not able to access mittuib; the same information is shared here as a guesture to you.     
 
 ### Assignment_1
  
