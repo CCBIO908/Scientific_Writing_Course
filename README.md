@@ -17,9 +17,9 @@ Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writi
 ## Message 1 (May 07):
 
 ### a) First assignment
-Click here to download [Assignment 1](https://filesender.sikt.no/?s=download&token=c94374b8-8d51-4386-b283-919eb11adec5) for the two days.     
+Click here to download [Assignment 1](https://filesender.sikt.no/?s=download&token=c94374b8-8d51-4386-b283-919eb11adec5)     
   - I encurage all of you (non-ECT) to do the assignment (it is a good exercise), but you do not have to submit.    
-  - In case you want to; submit to erling.hoivik@uib.no using *CCBIO908 Assignment 1* in email heading.
+  - In case you want to; submit to erling.hoivik@uib.no using *CCBIO908 Assignment 1* in email heading within Thursday 15 May..
 
 (Of course for ECT-students this is obligatory, and please then submit through MittUIB).
 
