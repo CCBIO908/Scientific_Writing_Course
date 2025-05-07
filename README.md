@@ -13,7 +13,8 @@ Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writi
 
 ### Announcements
 
-### Assignment_1
+### Assignment_1 & TimeSchedule
+https://filesender.sikt.no/?s=download&token=47535373-f585-42a0-9252-38cd94a2fff6 | 2.7MB, 2files; assignment 1 & Time schedule           
 
  
 
