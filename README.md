@@ -24,7 +24,7 @@ Click here to download [Assignment 1](https://filesender.sikt.no/?s=download&tok
 (Of course for ECT-students this is obligatory, and please then submit through MittUIB).
 
 ### b)  Not able to participate?
-Please inform us if you are not able to participate at the two days. 
+Please inform us if you are not able to participate. 
 
 
              
