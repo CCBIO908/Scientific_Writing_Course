@@ -1,7 +1,8 @@
 # Scientific_Writing_Course
 Course information 2025
 
-![image](https://github.com/user-attachments/assets/0b8931de-b2d6-4e1e-84a6-680d61db5b11)
+![image](https://github.com/user-attachments/assets/82ffc604-22ec-42ec-8349-6cb09bafd5f7)
+
 
 Main lecturer: Christine Møller       
 Course responsible: erling.hoivik@uib.no              
