@@ -1,5 +1,5 @@
 ## CCBIO908 2025 | Scientific writing & Communication
-![image](https://github.com/user-attachments/assets/d94b8be9-b838-4923-b917-d8233d11ba60)
+![image](https://github.com/user-attachments/assets/2a3647ab-1aa4-4609-a0ee-ead5755543b4)
 
 Course days: 20-21. May 2025         
 Main lecturer: Christine Møller          
