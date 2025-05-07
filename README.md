@@ -22,6 +22,10 @@ Click here to download [Assignment 1 and the activity plan](https://filesender.s
 
 ### b)  Not able to participate?
 Please inform us if you are not able to participate at the two days. 
+
+## Time schedule
+![image](https://github.com/user-attachments/assets/5aef056e-ef7d-4813-94d5-9eaaef951964)
+![image](https://github.com/user-attachments/assets/7cb9bc58-170f-403e-a5ca-29e9c698f211)
              
 
  
