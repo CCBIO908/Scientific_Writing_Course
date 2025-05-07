@@ -9,7 +9,7 @@ Location: Birkhaugsalen, Haukeland University Hospital, main building (room numb
 Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writing-and-communication-seminar-2025
 
 > [!NOTE]         
-> Intention: This page is continously updated as needed, and works in parallell with Mittuib/Canvas, to make sure non-ECT participants easily can access the same information. For ECT-earning students, your main site will be https://mitt.uib.no     
+> Intention: This page is continously updated as needed, and works in parallell with Mittuib/Canvas, to make sure non-ECT participants easily can access the same information. For ECT-earning students, your main site will be https://mitt.uib.no/courses/50763   
 
 ### Announcements
 
