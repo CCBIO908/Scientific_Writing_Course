@@ -14,7 +14,7 @@ Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writi
 
 
 ## Message 2 (May 13):
-When course starts, you are expected to:
+See program below: When course starts, you are expected to:
   - Be on time!   
   - Make room for eveyone in the auditorium, as course is full.
   - Engage in discussions, ask questions during the course!
@@ -23,7 +23,8 @@ Also, this is a reminder about assignment 1, with deadline within the 15 May (vo
 Note, you can freely choose the subject for your problem statement, but my recommondation is to use text you are working on, so it is relevant and useful for you. 
 
 ### Time schedule:
-Download pdf [here.](https://filesender.sikt.no/?s=download&token=2e70304a-7349-4833-9562-0a4cfe63cda4)       
+Download pdf [here.](https://filesender.sikt.no/?s=download&token=2e70304a-7349-4833-9562-0a4cfe63cda4)  
+
 ![Day1](https://github.com/user-attachments/assets/1e806dd3-f414-4ab3-a9be-352fe1d64b8b)      
 ![Day2](https://github.com/user-attachments/assets/4f0491ea-a9e2-4966-9536-8c2e5fc6e2e3)    
 
