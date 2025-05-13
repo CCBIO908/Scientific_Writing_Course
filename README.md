@@ -10,9 +10,22 @@ Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writi
 
 > [!NOTE]         
 > Intention: This page is continously updated as needed.
-> Information works in parallell with Mittuib/Canvas, to make sure non-ECT participants easily can access the same information, as some of you have reported trouble with accessing the student pages.  
-  Apologize for those who get this information twice. For ECT-earning students, your main site will still be https://mitt.uib.no/courses/50763   
+> Information works in parallell with Mittuib/Canvas, to make sure non-ECT participants easily can access the same information, as some of you have reported trouble with accessing the student pages. Apologize for those who get this information twice. For ECT-earning students, your main site will still be https://mitt.uib.no/courses/50763   
 
+
+## Message 2 (May 13):
+When course starts, you are expected to:
+  - Be on time!   
+  - Make room for eveyone in the auditorium, as course is full.
+  - Engage in discussions, ask questions during the course!
+
+Also, this is a reminder about assignment 1, with deadline within the 15 May (voluntary for non-ECTs).
+Note, you can freely choose the subject for your problem statement, but my recommondation is to use text you are working on, so it is relevant and useful for you. 
+
+### Time schedule:
+Download pdf [here.](https://filesender.sikt.no/?s=download&token=2e70304a-7349-4833-9562-0a4cfe63cda4)       
+![Day1](https://github.com/user-attachments/assets/1e806dd3-f414-4ab3-a9be-352fe1d64b8b)      
+![Day2](https://github.com/user-attachments/assets/4f0491ea-a9e2-4966-9536-8c2e5fc6e2e3)    
 
 ## Message 1 (May 07):
 
