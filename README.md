@@ -12,6 +12,20 @@ Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writi
 > Intention: This page is continously updated as needed.
 > Information works in parallell with Mittuib/Canvas, to make sure non-ECT participants easily can access the same information, as some of you have reported trouble with accessing the student pages. Apologize for those who get this information twice. For ECT-earning students, your main site will still be https://mitt.uib.no/courses/50763   
 
+## Message 3 (May 17):
+**Course material, exercises and a useful article**    
+
+Dear all,
+You should now have access to:          
+1) The course material and the exercises we will work on during class.        
+2) It sometimes it feels hard to get started with the scientific writing, doesn't it?    
+Recommended, and fun, reading before the course alsoe available; Article by Hazelett "Procastination_paper"
+
+Download material & paper [here.](https://filesender.sikt.no/?s=download&token=49db950a-ed28-4d3d-9393-2eb0b5ef038b)        
+
+Gratulerer med dagen,     
+and best wishes for a great 17-May to all of you,    
+see you soon!    
 
 ## Message 2 (May 13):
 See program below: When course starts, you are expected to:
