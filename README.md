@@ -23,9 +23,7 @@ Recommended, and fun, reading before the course alsoe available; Article by Haze
 
 Download material & paper [here.](https://filesender.sikt.no/?s=download&token=49db950a-ed28-4d3d-9393-2eb0b5ef038b)        
 
-Gratulerer med dagen,     
-and best wishes for a great 17-May to all of you,    
-see you soon!    
+See you soon!    
 
 ## Message 2 (May 13):
 See program below: When course starts, you are expected to:
