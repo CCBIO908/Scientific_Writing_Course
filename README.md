@@ -12,6 +12,11 @@ Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writi
 > Intention: This page is continously updated as needed.
 > Information works in parallell with Mittuib/Canvas, to make sure non-ECT participants easily can access the same information, as some of you have reported trouble with accessing the student pages. Apologize for those who get this information twice. For ECT-earning students, your main site will still be https://mitt.uib.no/courses/50763   
 
+## Message 4 (May 20):
+The lecture for today with Dr. Randy Watnick from Boston will be digital.         
+Would be nice if you would consider connecting, so he can see some people (remember to mute):    
+Zoom link: https://uib.zoom.us/j/61868939390?pwd=YVREWUdoVjFJenFSMWVMUW1aMCt1Zz09         
+
 ## Message 3 (May 17):
 **Course material, exercises and a useful article**    
 
