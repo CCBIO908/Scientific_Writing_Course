@@ -12,6 +12,23 @@ Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writi
 > Intention: This page is continously updated as needed.
 > Information works in parallell with Mittuib/Canvas, to make sure non-ECT participants easily can access the same information, as some of you have reported trouble with accessing the student pages. Apologize for those who get this information twice. For ECT-earning students, your main site will still be https://mitt.uib.no/courses/50763   
 
+## Message 5 (May 21):
+Some information:     
+1) For the *"Cover Letter"* lecture, we will connect with Marcus Corander, located in Dubai.     
+You can connect digitally using the same Zoom-link as yesterday:     
+Zoom link: https://uib.zoom.us/j/61868939390?pwd=YVREWUdoVjFJenFSMWVMUW1aMCt1Zz09
+          
+2) Please help us with evaluation ❤. This will be used in the contiuation of the course next years.            
+There will be a lottery-ticket for a prize to win amongst you, only after submitting the evaluation
+Evaluation | https://skjemaker.app.uib.no/view.php?id=19513879     
+     
+3) Assignment 2:     
+Note deadline Friday 30 May 2025! 
+Download assignment2 [here.](https://filesender.sikt.no/?s=download&token=325b4a7e-2aec-4f44-8432-60ad44f58e7d)
+
+4) We will come back to you with more material (answers, slides) after the course. 
+  
+
 ## Message 4 (May 20):
 The lecture for today with Dr. Randy Watnick from Boston will be digital.         
 Would be nice if you would consider connecting, so he can see some people (remember to mute):   
