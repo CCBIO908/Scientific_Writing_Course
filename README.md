@@ -12,6 +12,17 @@ Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writi
 > Intention: This page is continously updated as needed.
 > Information works in parallell with Mittuib/Canvas, to make sure non-ECT participants easily can access the same information, as some of you have reported trouble with accessing the student pages. Apologize for those who get this information twice. For ECT-earning students, your main site will still be https://mitt.uib.no/courses/50763   
 
+## Message 6 (May 28):
+Here are some extra material from last week:         
+Don't forget about assignment 2, with deadline within 30 May.         
+
+Feedback is still appreciated, there is another cup to win for those that complete the evaluation;               
+https://skjemaker.app.uib.no/view.php?id=19513879       
+
+Thanks to all for participating in discussions at the lectures!      
+
+Download [extra material:]https://filesender.sikt.no/?s=download&token=a0b7872e-24bc-475e-90c7-2e8410f9fc09
+
 ## Message 5 (May 21):
 Some information:     
 1) For the *"Cover Letter"* lecture, we will connect with Marcus Corander, located in Dubai.     
