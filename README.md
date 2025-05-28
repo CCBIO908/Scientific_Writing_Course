@@ -17,8 +17,7 @@ Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writi
 Here are some extra material from last week:         
 Don't forget about assignment 2, with deadline within 30 May.         
 
-Feedback is still appreciated, there is another lottery and a cup to win for those that complete the evaluation;               
-https://skjemaker.app.uib.no/view.php?id=19513879       
+Feedback is still appreciated, there is another lottery and a cup to win for those that complete the [evaluation;](https://skjemaker.app.uib.no/view.php?id=19513879)             
 
 Thanks to all for participating in discussions at the lectures!      
 
