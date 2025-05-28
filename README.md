@@ -22,7 +22,7 @@ https://skjemaker.app.uib.no/view.php?id=19513879
 
 Thanks to all for participating in discussions at the lectures!      
 
-Download [extra material:]https://filesender.sikt.no/?s=download&token=a0b7872e-24bc-475e-90c7-2e8410f9fc09
+Download [extra material:](https://filesender.sikt.no/?s=download&token=a0b7872e-24bc-475e-90c7-2e8410f9fc09)
 
 ## Message 5 (May 21):
 Some information:     
