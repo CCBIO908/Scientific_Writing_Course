@@ -14,7 +14,8 @@ Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writi
 
 ## Message 6 (May 28): 
 **Extra materials, presentations and answers**           
-Here are some extra material from last week:         
+Here are some extra material from last week:     
+
 Don't forget about assignment 2, with deadline within 30 May.         
 
 Feedback is still appreciated, there is another lottery    
