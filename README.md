@@ -12,7 +12,8 @@ Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writi
 > Intention: This page is continously updated as needed.
 > Information works in parallell with Mittuib/Canvas, to make sure non-ECT participants easily can access the same information, as some of you have reported trouble with accessing the student pages. Apologize for those who get this information twice. For ECT-earning students, your main site will still be https://mitt.uib.no/courses/50763   
 
-## Message 6 (May 28):
+## Message 6 (May 28): 
+**Extra materials, presentations and answers**           
 Here are some extra material from last week:         
 Don't forget about assignment 2, with deadline within 30 May.         
 
