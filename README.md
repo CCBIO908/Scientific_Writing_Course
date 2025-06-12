@@ -12,6 +12,23 @@ Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writi
 > Intention: This page is continously updated as needed.
 > Information works in parallell with Mittuib/Canvas, to make sure non-ECT participants easily can access the same information, as some of you have reported trouble with accessing the student pages. Apologize for those who get this information twice. For ECT-earning students, your main site will still be https://mitt.uib.no/courses/50763   
 
+## Message 7 (June 12):     
+**After course**     
+Dear all, here is the final wrap-up:
+1) Here are some examples from the assignments, that we can all learn from.       
+Thanks to those who agreed to share, and please keep confidential.      
+   - Assignment 1 : Problem statement     
+   - Assignment 2: Before and after (Upgrade text)       
+Download [here:](https://filesender.sikt.no/?s=download&token=5fe47092-c605-4a1c-a5ec-d51efcf26181)          
+
+3) We have gone through and evaluated all your assignments. Great work everyone!   
+Please expect some delay until the administration has processed it and it will then be available in studentweb if you signed up for ECTs. 
+
+4) Thanks also to those that evaluated the course. Positive and negative feedback is important for us in the continuation of the course.        
+
+ Good luck with your science and writing!         
+
+
 ## Message 6 (May 28): 
 **Extra materials, presentations and answers**           
 Here are some extra material from last week:     
