@@ -9,7 +9,8 @@ Location: Birkhaugsalen, Haukeland University Hospital, main building (room numb
 Course description: https://www.uib.no/en/ccbio/174924/ccbio908-scientific-writing-and-communication-seminar-2025
 
 ### This site
-This site was an information site for thoose that took the course CCBIO908; Scientific writing curse in 2025.     
+This site was an information site for thoose that took the course CCBIO908; Scientific writing curse in 2025.   
+Information here is no longer available.            
 
 ### Course END 2025
 Thank you for your participation at this course in May 2025.    
